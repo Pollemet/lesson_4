@@ -1,0 +1,162 @@
+body {
+	font-family: "Lato";
+}
+
+.sub-title {
+	font-family: "Roboto";
+	font-weight: 700;
+	color: rgb(143, 143, 143);
+}
+
+.text {
+	color: rgb(53, 97, 97);
+}
+
+/* ------------------------------ */
+.header {}
+
+.header__title {
+	font-weight: 900;
+	color: rgb(14, 70, 66);
+}
+
+/* ------------------------------- */
+.main {}
+
+
+/* ------------------------------- */
+
+.biography {}
+
+.biography__image {}
+
+.biography__text {
+	font-family: "Larsseit";
+}
+
+/* ------------------------------ */
+.navigation {
+	font-family: "Roboto";
+}
+
+.navigation__title {
+	font-weight: 700;
+}
+
+.navigation__list {
+	font-weight: 700;
+	color: rgb(121, 90, 16);
+}
+
+.navigation__list li {
+	list-style: upper-roman;
+}
+
+.navigation__item {
+	margin-left: 30px;
+}
+
+/* ------------------------------ */
+.bearing {}
+
+.bearing__title {
+	font-weight: 900;
+}
+
+.bearing__sub-title {}
+
+.bearing__text {}
+
+
+/* ------------------------------ */
+
+.parachute {}
+
+.parachute__sub-title {}
+
+.parachute__text {}
+
+/* ------------------------------ */
+#p3 p {
+	color: rgb(36, 230, 23);
+}
+
+.ornithopter {}
+
+.ornithopter__sub-title {}
+
+.ornithopter__text {}
+
+/* ------------------------------ */
+.machine-gun {}
+
+.machine-gun__sub-title {}
+
+.machine-gun__text {}
+
+/* ------------------------------ */
+.diving-suit {}
+
+.diving-suit__sub-title {}
+
+.diving-suit__text {}
+
+/* ------------------------------ */
+.tank {}
+
+.tank__sub-title {}
+
+.tank__text {}
+
+/* ------------------------------ */
+.trolley p {
+	color: burlywood;
+}
+
+.trolley__sub-title {}
+
+.trolley__text {}
+
+/* ------------------------------ */
+.sity__sub-title {
+	color: rgb(132, 248, 248);
+}
+
+.sity {}
+
+.sity__sub-title {}
+
+.sity__text {
+	color: rgb(189, 114, 21);
+}
+
+/* ------------------------------ */
+.screw {}
+
+.screw__sub-title {
+	font-family: Lato;
+}
+
+.screw__text {}
+
+/* ------------------------------ */
+.robot {}
+
+.robot__sub-title {
+	color: red;
+}
+
+.robot__text {}
+
+/* ------------------------------ */
+
+.footer {}
+
+.footer__link {
+	color: blue;
+	font-weight: 700;
+}
+
+.footer__text {
+	color: rgb(118, 56, 37);
+}
